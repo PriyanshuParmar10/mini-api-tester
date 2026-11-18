@@ -4,7 +4,7 @@ import SummaryCards from './components/SummaryCards';
 import ResultsTable from './components/ResultsTable';
 import RecentRuns from './components/RecentRuns';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://mini-api-tester-fyjm.onrender.com/';
 const WS_URL = 'ws://localhost:5000';
 
 export default function App() {
